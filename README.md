@@ -15,10 +15,10 @@ Evaluación de conocimientos hasta el corte 2
 
 | Integrante | Rol |
 |---|---|
-| Sebastian De Jesus Berrio | Desarrollo backend / Excepciones / Clases abstractas |
-| Marcos Torrealba | Diagramas UML |
+| Sebastian De Jesus Berrio |  Excepciones / Clases abstractas |
+| Marcos Torrealba |  Clases Empleador |
 | Alfonso Acosta | Clases de Cuentas |
-| Geiner Garcia | Clases de Empleados |
+| Geiner Garcia | Diagramas UML |
 
 ---
 
