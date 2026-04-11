@@ -16,7 +16,7 @@ Evaluación de conocimientos hasta el corte 2
 | Integrante | Rol |
 |---|---|
 | Sebastian De Jesus Berrio |  Excepciones / Clases abstractas |
-| Marcos Torrealba |  Clases Empleador |
+| Marcos Torrealba |  Clases Empleados |
 | Alfonso Acosta | Clases de Cuentas |
 | Geiner Garcia | Diagramas UML |
 
